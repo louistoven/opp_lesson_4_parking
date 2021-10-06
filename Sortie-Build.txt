@@ -1,0 +1,5 @@
+﻿L'opération de génération a démarré...
+1>------ Début de la génération : Projet : opp_lesson_4_parking, Configuration : Debug Any CPU ------
+1>C:\Users\user\source\repos\opp_lesson_4_parking\opp_lesson_4_parking\test\Program.cs(14,13,14,19): error CS0246: Le nom de type ou d'espace de noms 'Driver' est introuvable (vous manque-t-il une directive using ou une référence d'assembly ?)
+1>C:\Users\user\source\repos\opp_lesson_4_parking\opp_lesson_4_parking\test\Program.cs(14,33,14,39): error CS0246: Le nom de type ou d'espace de noms 'Driver' est introuvable (vous manque-t-il une directive using ou une référence d'assembly ?)
+========== Génération : 0 a réussi, 1 a échoué, 0 à jour, 0 a été ignoré ==========
